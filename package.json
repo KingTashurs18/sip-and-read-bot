@@ -1,0 +1,16 @@
+{
+  "name": "sip-and-read-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Sip & Read club with Express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "express": "^4.18.2"
+  }
+}
